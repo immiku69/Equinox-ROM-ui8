@@ -2,4 +2,4 @@ id=permissive
 name=enables permissive
 author=aniket
 description=.
-on boot.
+
